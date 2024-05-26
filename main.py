@@ -4,10 +4,10 @@
 # import volume.bola
 # from volume.trapesium import *
 
-'''
+"""
 NAMA : ADAM GUMILANG
 NIM : 20230040296
-'''
+"""
 
 from luas import lingkaran, persegi, segitiga
 from volume import bola, kubik, trapesium
